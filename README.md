@@ -1,2 +1,2 @@
-# llm
-A collection form LLM-based projects
+# LLM
+A collection of LLM-based projects.
